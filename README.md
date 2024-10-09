@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, my name is Ivan Koo</h1>
 <h3 align="center">Year 3 Computer Science Undergraduate</h3>
 
-- 🔭 I’m currently interning in **Workforce Singapore, Ministry of Manpower.**
+- 🔭 I’m currently interning in **Workforce Singapore, Ministry of Manpower,** as an automation developer.
 
 - 🌱 I’m currently learning **my knowledge on cloud computing, particularly in AWS.**
 
